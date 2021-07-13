@@ -15,7 +15,7 @@
             "email": "bvu@ftk.de"
         }
     ],
-    "homepage": "http://github.com/bshaffer/oauth2-server-php",
+    "homepage": "https://github.com/binhvd/oauth2-server-php",
     "autoload": {
         "psr-0": { "OAuth2": "src/" }
     },
